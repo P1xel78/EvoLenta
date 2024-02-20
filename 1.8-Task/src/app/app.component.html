@@ -1,0 +1,31 @@
+<h1 class="h1 h1-info">CommonJS (Notiflix)</h1>
+<div calss="container p-3">
+  <button type="button" class="btn btn-primary" (click)="Load('1')">
+    Загрузка 1
+  </button>
+  <button type="button" class="btn btn-primary" (click)="Load('2')">
+    Загрузка 2
+  </button>
+  <button type="button" class="btn btn-primary" (click)="Load('3')">
+    Загрузка 3
+  </button>
+</div>
+<br />
+<div calss="container p-3">
+  <button type="button" class="btn btn-primary" (click)="Report('1')">
+    Отчет 1
+  </button>
+  <button type="button" class="btn btn-primary" (click)="Report('2')">
+    Отчет 2
+  </button>
+</div>
+<br />
+<h1 class="h1 h1-info">Ngx библиотека (ngx-charts)</h1>
+<div class="p-7">
+  <ngx-charts-bar-vertical
+    [results]="charts_data"
+    [view]="[700, 400]"
+    [legend]="true"
+    [roundDomains]="true"
+  ></ngx-charts-bar-vertical>
+</div>

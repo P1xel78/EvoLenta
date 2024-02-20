@@ -1,0 +1,58 @@
+{
+  "hash": "390e428d",
+  "configHash": "dcdd67f8",
+  "lockfileHash": "1012ddb7",
+  "browserHash": "9e1debd3",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "d27938d9",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c92844f3",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ec936d4a",
+      "needsInterop": false
+    },
+    "@ng-bootstrap/ng-bootstrap": {
+      "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
+      "file": "@ng-bootstrap_ng-bootstrap.js",
+      "fileHash": "5785433b",
+      "needsInterop": false
+    },
+    "@swimlane/ngx-charts": {
+      "src": "../../../../../node_modules/@swimlane/ngx-charts/fesm2020/swimlane-ngx-charts.mjs",
+      "file": "@swimlane_ngx-charts.js",
+      "fileHash": "545828ff",
+      "needsInterop": false
+    },
+    "notiflix": {
+      "src": "../../../../../node_modules/notiflix/dist/notiflix-aio-3.2.7.min.js",
+      "file": "notiflix.js",
+      "fileHash": "ecc879d3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-X6GPXQ2K": {
+      "file": "chunk-X6GPXQ2K.js"
+    },
+    "chunk-TRFOF4M3": {
+      "file": "chunk-TRFOF4M3.js"
+    },
+    "chunk-AD3KMFLD": {
+      "file": "chunk-AD3KMFLD.js"
+    },
+    "chunk-ASLTLD6L": {
+      "file": "chunk-ASLTLD6L.js"
+    }
+  }
+}
